@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chitieubot-456603",
+  "private_key_id": "1ff4e9a20a67822a8aed59e454452b148c830c0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMlKVVJaCTkDb5\nt+Ug7dve2jYdGvHlZUhOKBk3Cw1XnNk2q1v2BxYRiAJXnznDeVIjb52wo9nYpyaN\nsn6O7iOfp6N+aEOep2Ngb1UZloTiCNFvHPeLMATyobNFAsSa6eHYyOZgEXMZ5tnE\nUHXR/69gCdmTFcxgxxODnhJYRc1BnRDQnSm5nO3bfBJwbOp9bxYnh9J2a4BP1PcH\nhfvACxnfw+qgNcW6uxiEYGPBSdlaBdIysC1IbYDV0S1SFawQd++Tn4WoGjZdb203\nOJGACJhmrsFC2+j7fJTY7vc2uofH1ISS65+15cLiFYW+r6BAyPdY48wzWwXYj5XI\n6Y8xJChnAgMBAAECggEAKBoTG7nzF4URGaUquH0Bto2a2CyiimSc/qaTos8FTFPS\n5rR1NDaLRg79VA94w9ks5Czn18a10wbDibI8RfuKr/V7PwjxGSX4xD6eEQGOAIix\nbbfeqZbWInycDfifKu3C3jtY9Fil8+KVhlnJclE0rvnAViPmvEituWLzKrkmtytx\nrNWJVzCIbfr+Q2/cIOWw3ghvFf0ZOD3g5/N89Fmi9hq0m3oJVV1gyfmX9JkXO6eC\n4c6CsWBpfPp4QXRhFrc+lsO++1Yv5nVfVfpRgzPWiAsLu2BXOzv0SQHXjm8/N2Ac\nJ8W49HZE5HX42WkqM3VVaHDgJFzPrUugI2LWyLucaQKBgQDAkiraJlTDDRNCOQ+h\nbaFsi+WZQ6n7N2D0bK2Sk9athKlZhVePeyBnVfgwdBYp5bD96GuICHswE+WzzBKS\nT9Pk2inipQXdNZggYnKI6XJ7liAnB0/3ZFLznWh2AUe/bRm6haP2Og0Y1hswiM9F\nP87sBpoRvj1SSuD5c8A520bcowKBgQC64pZukUVL+oYrOyfi/mNA6UWO0WSCw1G/\nPDREpABJr/6NyeO4I7btDuEdbjBcM5CKDaRCqHs2E8Q2VJxn1OAOa+wdzO7drChX\nUMlhuc0ffI2en1gJek7Qcr/i732v/DLtxCGEBA1ypYZiv4JzZahgxZ/dvgxZ5o/8\nbvlZVvtdbQKBgAJVQwOllz1NuUACJPhVtbD0+PEkarjKcPhFIM030VAE3XBiNy9b\n1Iar+ffMUEBtsflBiZv6TlPEyfGltUvkf7K0GfHPAgUuEwvBZZXXDjYFGZqfcg6T\nPpYJACz90vq0va0O1W+0QFher7Gk1q4GGeGuKsuwPFn04kjjaB7LU051AoGBAICu\nYLLFaJfGavf9hZtxWlppxTFv0OuRHgq1o6/X1TLn8jkjWJ+ESAK3Ch6/rqDuCIpm\nlkInzJ8RwTs/y2pbU+PaP/zNDXSphCWLRP77dthFZSZhxbbQ9s/lE2dpTHwPBepd\n8E38lF3qx7va7jITP3tS2J9QqySD84T3zM3NbMuJAoGALboWT7cDLAMe9DaFzMTY\n9nuJMAoDnar/1AvncBYHdFiw28gS1ak6NDqisniz+k7yhCbuxTRJVwzGChsqLQdn\nchjs4bNUHKDLFGerPPbPXxrMX8vVQNIi356J3x9g86KMneBeuDaItFska/OaKNvm\nrBQo1EQt+N+4mOMN/j6BU9c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chi-tieu-service@chitieubot-456603.iam.gserviceaccount.com",
+  "client_id": "107830023600279032759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chi-tieu-service%40chitieubot-456603.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
